@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Restore repo into /app: deps, seed, frontend build, services green",
+    "status": "completed"
+  },
+  {
+    "content": "Re-verify P7 stopping point: gate.sh --full baseline (79 gates PASS/0 FAIL/0 SKIP)",
+    "status": "completed"
+  },
+  {
+    "content": "Item F: demo data + REAL BUG found & fixed — roll identity (roll_no drift, 3 duplicate-number creators), INV-ROLL-01 gate, Landed Cost & RFQ seeds, 2 raw-id leaks",
+    "status": "completed"
+  },
+  {
+    "content": "Item A: F-6.7 workflow debt — 'Ajukan' for payroll & design, doc status for payment variance, SO admin verification queue",
+    "status": "in_progress"
+  },
+  {
+    "content": "Item C: reason history (cancel/void) visible on the document itself",
+    "status": "pending"
+  },
+  {
+    "content": "Item B: build 3 'Segera Hadir' screens — BOM Printing, BI Sales, BI Stok",
+    "status": "pending"
+  },
+  {
+    "content": "Item D: US22 inter-PT approval threshold verified end-to-end via UI",
+    "status": "pending"
+  },
+  {
+    "content": "Item E: SMTP document sending — settings screen + send queue + outbox",
+    "status": "pending"
+  },
+  {
+    "content": "End-to-end testing via testing_agent_v3 (backend + frontend)",
+    "status": "pending"
+  },
+  {
+    "content": "Update plan.md / PERF_UX_AUDIT.md / INVARIANTS.md with session status",
+    "status": "pending"
+  }
+]
